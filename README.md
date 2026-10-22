@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Graph Theory
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Binary Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
