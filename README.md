@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Graph Theory
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dijkstra's Algorithm
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
