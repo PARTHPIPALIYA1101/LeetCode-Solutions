@@ -11,18 +11,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0968-binary-tree-cameras](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Heap (Priority Queue)
 |  |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
