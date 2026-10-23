@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dijkstra's Algorithm
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
