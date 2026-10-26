@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0968-binary-tree-cameras](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [2409-count-days-spent-together](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
