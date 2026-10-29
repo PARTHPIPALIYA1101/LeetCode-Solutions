@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0968-binary-tree-cameras](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0968-binary-tree-cameras) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
