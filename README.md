@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [3692-majority-frequency-characters](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3692-majority-frequency-characters](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Counting
+|  |
+| ------- |
+| [3692-majority-frequency-characters](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 <!---LeetCode Topics End-->
