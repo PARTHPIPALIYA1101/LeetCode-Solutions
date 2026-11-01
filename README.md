@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
