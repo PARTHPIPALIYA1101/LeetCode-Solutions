@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [3692-majority-frequency-characters](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Bit Manipulation
 |  |
@@ -144,9 +146,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [3692-majority-frequency-characters](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+## Two Pointers
+|  |
+| ------- |
+| [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 <!---LeetCode Topics End-->
