@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1845-seat-reservation-manager](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+## Design
+|  |
+| ------- |
+| [1845-seat-reservation-manager](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
 <!---LeetCode Topics End-->
