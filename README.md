@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3692-majority-frequency-characters](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Bit Manipulation
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
