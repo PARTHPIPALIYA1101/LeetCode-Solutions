@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3692-majority-frequency-characters](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Union-Find
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PARTHPIPALIYA1101/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
